@@ -1,7 +1,8 @@
 # MoodMate - Mood Tracking App 🌦️😊
 
 ## Screen Shot
-![Screenshot 2025-05-06 172803](https://github.com/user-attachments/assets/ab39ee06-0e43-4837-886c-17471238eda0)
+![Screenshot 2025-05-06 201505](https://github.com/user-attachments/assets/1ffa7ec0-5f50-4ea1-9635-4da8b31cbe79)
+
 
 
 A React-based mood tracking application that helps you log your daily emotions along with weather data and notes.
